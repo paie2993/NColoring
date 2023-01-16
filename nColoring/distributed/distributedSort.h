@@ -1,0 +1,1 @@
+void distributedSort(const int no, int *array);
